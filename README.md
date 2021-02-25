@@ -1,11 +1,11 @@
 # ev_ftp_server
 a simple FTP server based on libevent
 
-ev_ftp_server是linux环境下基于libevent的简易ftp服务器。
+ev_ftp_server是linux环境下基于libevent的简易FTP服务器。
 
 ## 具体功能介绍：
 
-### ev_ftp中使用了简易版的ftp协议：
+### ev_ftp中使用了简易版的FTP协议：
 
 > 命令通道 5001
 
