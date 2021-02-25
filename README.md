@@ -1,5 +1,4 @@
 # ev_ftp_server
-a simple FTP server based on libevent
 
 ev_ftp_server是linux环境下基于libevent的简易FTP服务器。
 
